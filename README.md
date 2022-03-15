@@ -42,7 +42,7 @@ Zero Vine reviews were 5 stars:
 
 ## **Summary**
 
-Based on the results of the analysis, there does not appear to be positivity bias for reviews in the Amazon Music Vine program since zero Vine reviews gave five stars. In contrast, the non-Vine reviews had a weak majority of five star reviews at 63.77%.
+Based on the results of the analysis, there does not appear to be positivity bias for reviews in the Amazon Music Vine program since 0% of Vine reviews gave five stars. In contrast, the non-Vine reviews had a weak majority of five star reviews at 63.77%.
 
 An additional analysis could be run on the dataset for the percentage of five *and* four star reviews (Vine and non-Vine), since four star reviews may also be considered positive.
 
